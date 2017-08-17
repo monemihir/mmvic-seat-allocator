@@ -1,0 +1,15 @@
+**/obj/**
+**/bin/**
+*.suo
+*.user
+**/.vs/**
+**/_Resharper.Caches/**
+*.log
+*.debug.*
+**/packages/**
+App_Data
+output
+dist
+artifacts
+**/cache
+**/temp
